@@ -4,7 +4,7 @@
 git clone https://github.com/singam123/docker.git
 
 ## Run the build command 
-cd docker
+cd docker \n
 docker build . --tag flask:latest
 
 ## Run the container
